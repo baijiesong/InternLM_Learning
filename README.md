@@ -10,7 +10,8 @@
 ![b9206f2688285426e68a8c91a1c35de](https://github.com/baijiesong/InternLM_Learning/assets/105435837/7b1dfc92-d29d-48d4-a54f-27bb2375337a)
 * 数据部分：书生万卷1.0
 ![76ba3f27449dab6104eab9403982c73](https://github.com/baijiesong/InternLM_Learning/assets/105435837/871bb72e-c7a3-4185-ae8e-9e2d5c3b3c16)
-* 预训练部分
+* 预训练部分：
+
 ![83a5c643896440dcf4d260899a4fe92](https://github.com/baijiesong/InternLM_Learning/assets/105435837/830b0233-a79a-4854-aa61-0a9c4b763e9e)
 * 微调部分
 ![1dbba157ace0bd6454d7b9fa20d79be](https://github.com/baijiesong/InternLM_Learning/assets/105435837/34900441-2dd4-4bb1-a2cc-ab53077afcde)
